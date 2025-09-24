@@ -1,16 +1,26 @@
 # Zwad System App
 
-This desktop application helps foundation employees record donation data from customers. It stores entries in a structured Excel sheet for easy tracking and reporting.
+A multi-technology solution built for Zwad Foundation to automate weight tracking for aid packages. Combines Arduino, Python, C#, and Figma to streamline logistics and improve transparency.
 
-To launch:
-• Double-click ZwadApp.exe
-• No internet connection is required
+## 🔧 Technologies Used
+- Arduino: Real-time weight measurement
+- Python: Data conversion and filtering
+- C#: Data storage and user interface
+- Figma: UI design and prototyping
 
-Files created:
-• Donations.xlsx – Excel version of the donation records
-• C#_table.csv – Raw data export for internal use
+## 📦 Files Included
+- `Advanced balance system.zip`: Arduino sketch and sensor setup
+- `Zwad Information System.rar`: Full source code (Python, C#, UI)
+- `ZwadApp_UserGuide.pdf`: Step-by-step installation and usage guide
 
-All files are saved in the “_internal” folder located in the same directory as the app.
+## 📥 How to Download & Use
+1. Click **Code** → **Download ZIP**
+2. Extract `Zwad Information System.rar`
+3. Follow instructions in `ZwadApp_UserGuide.pdf`
+4. Upload Arduino sketch from `Advanced balance system.zip` to your board
+
+## 📄 License
+This project is licensed under the GNU GPL v3 License.
 
 For questions, feedback, or improvements:
 Ahmed Saber  
